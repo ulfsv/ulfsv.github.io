@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3DQuu</title>
-    <link>/index.xml</link>
+    <link>https://ulfsv.github.io/index.xml</link>
     <description>Recent content on 3DQuu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>ulf.e.sv@gmail.com (Ulfsv)</managingEditor>
+    <webMaster>ulf.e.sv@gmail.com (Ulfsv)</webMaster>
     <copyright>(c) 2017 Copyright 3DQuu</copyright>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ulfsv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
