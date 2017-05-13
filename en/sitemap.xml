@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://3dquu.com/sv/kop/</loc>
+    <loc>https://3dquu.com/en/sv/kop/</loc>
     <lastmod>2017-05-13T19:18:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://3dquu.com/buy/</loc>
+    <loc>https://3dquu.com/en/buy/</loc>
     <lastmod>2017-03-25T14:34:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://3dquu.com/</loc>
+    <loc>https://3dquu.com/en/</loc>
     <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/tags/buy/</loc>
-    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://3dquu.com/tags/instant-wi-fi/</loc>
+    <loc>https://3dquu.com/en/tags/buy/</loc>
     <lastmod>2017-03-25T14:34:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/tags/one/</loc>
+    <loc>https://3dquu.com/en/tags/instant-wi-fi/</loc>
+    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/en/tags/one/</loc>
     <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/sv/</loc>
+    <loc>https://3dquu.com/en/sv/</loc>
     <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/tags/</loc>
+    <loc>https://3dquu.com/en/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/topics/topic-1/</loc>
+    <loc>https://3dquu.com/en/topics/topic-1/</loc>
     <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/topics/</loc>
+    <loc>https://3dquu.com/en/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/tags/two/</loc>
+    <loc>https://3dquu.com/en/tags/two/</loc>
     <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
