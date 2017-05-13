@@ -2,7 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://3dquu.com/2017/05/12/3dquu-raspberry-pi-3-aik-nes-case/</loc>
+    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/3dquu-raspberry-pi-3-aik-nes-case/</loc>
+    <lastmod>2017-05-12T11:25:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://3dquu.com/</loc>
+    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/one/</loc>
+    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/post/</loc>
+    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/topics/topic-1/</loc>
+    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/two/</loc>
+    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   

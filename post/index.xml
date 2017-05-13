@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3DQuu</title>
-    <link>https://3dquu.com/index.xml</link>
-    <description>Recent content on 3DQuu</description>
+    <title>Posts on 3DQuu</title>
+    <link>https://3dquu.com/post/index.xml</link>
+    <description>Recent content in Posts on 3DQuu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>ulf.e.sv@gmail.com (Ulfsv)</managingEditor>
     <webMaster>ulf.e.sv@gmail.com (Ulfsv)</webMaster>
     <copyright>(c) 2017 Copyright 3DQuu</copyright>
     <lastBuildDate>Fri, 12 May 2017 12:31:58 +0000</lastBuildDate>
-    <atom:link href="https://3dquu.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3dquu.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>3dquu raspberry pi 3 aik nes case</title>
@@ -18,21 +18,6 @@
       <pubDate>Fri, 12 May 2017 12:31:58 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/2017/05/12/3dquu-raspberry-pi-3-aik-nes-case/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589182/sjl0b6k9qftogxgp09td&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.3dhubs.com/service/210815&#34; data-3dhubs-widget=&#34;button&#34; data-hub-id=&#34;210815&#34; data-type=&#34;orderWidget&#34; data-color=&#34;light&#34; data-size=&#34;normal&#34; data-text=&#34;Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas&#34; &gt;Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas for 40USD&lt;/a&gt;
-&lt;script&gt;!function(a,b,c,d){var e,g=(a.getElementsByTagName(b)[0],/^http:/.test(a.location)?&amp;laquo;http&amp;raquo;:&amp;laquo;https&amp;raquo;);a.getElementById(d)||(e=a.createElement(b),e.id=d,e.src=g+&amp;raquo;://d3d4ig4df637nj.cloudfront.net/w/2.0.js&amp;raquo;,e.async=!0,a.body.appendChild(e))}(document,&amp;laquo;script&amp;raquo;,1,&amp;laquo;h3d-widgets-js&amp;raquo;);&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589721/yzwfur3iawfqpzypo8b3&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3dquu raspberry pi 3 aik nes case</title>
-      <link>https://3dquu.com/3dquu-raspberry-pi-3-aik-nes-case/</link>
-      <pubDate>Fri, 12 May 2017 11:25:35 +0000</pubDate>
-      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
-      <guid>https://3dquu.com/3dquu-raspberry-pi-3-aik-nes-case/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589182/sjl0b6k9qftogxgp09td&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.3dhubs.com/service/210815&#34; data-3dhubs-widget=&#34;button&#34; data-hub-id=&#34;210815&#34; data-type=&#34;orderWidget&#34; data-color=&#34;light&#34; data-size=&#34;normal&#34; data-text=&#34;Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas&#34; &gt;Order a 3D Print of the 3dquu raspberry pi 3 aik nes cas for 40USD&lt;/a&gt;
