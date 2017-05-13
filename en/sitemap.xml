@@ -2,30 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://3dquu.com/2017/05/12/3dquu-raspberry-pi-3-aik-nes-case/</loc>
-    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <loc>https://3dquu.com/sv/kop/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://3dquu.com/3dquu-raspberry-pi-3-aik-nes-case/</loc>
-    <lastmod>2017-05-12T11:25:35+00:00</lastmod>
+    <loc>https://3dquu.com/buy/</loc>
+    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://3dquu.com/</loc>
-    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/buy/</loc>
+    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/instant-wi-fi/</loc>
+    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://3dquu.com/tags/one/</loc>
-    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/post/</loc>
-    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <loc>https://3dquu.com/sv/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,7 +48,7 @@
   
   <url>
     <loc>https://3dquu.com/topics/topic-1/</loc>
-    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +59,7 @@
   
   <url>
     <loc>https://3dquu.com/tags/two/</loc>
-    <lastmod>2017-05-12T12:31:58+00:00</lastmod>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
