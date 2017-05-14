@@ -12,11 +12,6 @@
   </url>
   
   <url>
-    <loc>https://3dquu.com/en/buy/</loc>
-    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://3dquu.com/en/</loc>
     <lastmod>2017-05-14T14:37:59+00:00</lastmod>
     <priority>0</priority>
@@ -24,7 +19,7 @@
   
   <url>
     <loc>https://3dquu.com/en/tags/buy/</loc>
-    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
+    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,14 +30,20 @@
   </url>
   
   <url>
-    <loc>https://3dquu.com/en/tags/instant-wi-fi/</loc>
-    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
+    <loc>https://3dquu.com/en/tags/nes-l%C3%A5da/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3dquu.com/en/tags/one/</loc>
+    <loc>https://3dquu.com/en/tags/rasberry-pi-nes-case/</loc>
     <lastmod>2017-05-14T14:37:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/en/tags/rasberry-pi3-l%C3%A5da/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,12 +66,6 @@
   
   <url>
     <loc>https://3dquu.com/en/topics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://3dquu.com/en/tags/two/</loc>
-    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
