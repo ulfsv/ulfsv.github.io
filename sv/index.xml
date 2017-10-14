@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3DQuu</title>
-    <link>https://3dquu.com/sv/index.xml</link>
+    <link>https://3dquu.com/sv/</link>
     <description>Recent content on 3DQuu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>ulf.e.sv@gmail.com (Ulfsv)</managingEditor>
     <webMaster>ulf.e.sv@gmail.com (Ulfsv)</webMaster>
     <copyright>(c) 2017 Alla rättigheter 3DQuu</copyright>
-    <atom:link href="https://3dquu.com/sv/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://3dquu.com/sv/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
