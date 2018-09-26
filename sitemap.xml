@@ -1,16 +1,163 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://3dquu.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2017-10-16T12:04:18+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://3dquu.com/sv/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://3dquu.com/3d-printed-mug/</loc>
+    <lastmod>2017-10-16T12:04:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/en/nfc-business-card/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/nfc-business-card/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/en/rasberry-pi-case/</loc>
+    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/en/rasberry-pi-nes-case/</loc>
+    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/rasberry-pi-nes-case/</loc>
+    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/sv/kop/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/buy/</loc>
+    <lastmod>2017-03-25T14:34:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/invest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/</loc>
+    <lastmod>2017-10-16T12:04:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/android/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/business-card/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/buy/</loc>
+    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/custom/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/en/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/ios-11/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/iphone/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/nes-l%C3%A5da/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/nfc/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/nfc-business-card/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/one/</loc>
+    <lastmod>2017-10-16T12:04:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/rasberry-pi-nes-case/</loc>
+    <lastmod>2017-05-14T14:37:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/rasberry-pi3-l%C3%A5da/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/sv/</loc>
+    <lastmod>2017-05-13T19:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/</loc>
+    <lastmod>2017-10-14T20:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/topics/topic-1/</loc>
+    <lastmod>2017-10-16T12:04:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/topics/</loc>
+    <lastmod>2017-10-16T12:04:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/tags/two/</loc>
+    <lastmod>2017-10-16T12:04:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

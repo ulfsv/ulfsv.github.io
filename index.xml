@@ -2,15 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3DQuu</title>
-    <link>https://3dquu.com/index.xml</link>
+    <link>https://3dquu.com/</link>
     <description>Recent content on 3DQuu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>ulf.e.sv@gmail.com (Ulfsv)</managingEditor>
     <webMaster>ulf.e.sv@gmail.com (Ulfsv)</webMaster>
     <copyright>(c) 2017 Copyright 3DQuu</copyright>
-    <lastBuildDate>Sat, 13 May 2017 19:18:19 +0000</lastBuildDate>
-    <atom:link href="https://3dquu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Oct 2017 12:04:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://3dquu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3d printed mug</title>
+      <link>https://3dquu.com/3d-printed-mug/</link>
+      <pubDate>Mon, 16 Oct 2017 12:04:18 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/3d-printed-mug/</guid>
+      <description>3D Printed coffe mug Buy online  Specification 3D printed in blue PET plastic (recyclable)
+Weight 167g
+Coated with FDA approved layer to make it food safe, dishwasher safe and water proof.</description>
+    </item>
+    
+    <item>
+      <title>NFC business card</title>
+      <link>https://3dquu.com/en/nfc-business-card/</link>
+      <pubDate>Sat, 14 Oct 2017 20:30:13 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/en/nfc-business-card/</guid>
+      <description>Custom NFC business card Order your custom made business card. The NFC tag can be linked to a vcard, home page, youtube, facebook page or any kind of URL. Send us your design in pdf, svg or postscript or other vector graphic formats. Use high resolution images: 96 DPI or higher.
+Send us dropbox link if image size is larger than 10 Mb. The link on the NFC tag can easily be changed online.</description>
+    </item>
+    
+    <item>
+      <title>NFC business card</title>
+      <link>https://3dquu.com/nfc-business-card/</link>
+      <pubDate>Sat, 14 Oct 2017 20:30:13 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/nfc-business-card/</guid>
+      <description>Custom NFC business card Order your custom made business card. The NFC tag can be linked to a vcard, home page, youtube, facebook page or any kind of URL. Send us your design in pdf, svg or postscript or other vector graphic formats. Use high resolution images: 96 DPI or higher.
+If image size is larger than 10 Mb use wetransfer link or dropbox link .
+The link on the NFC tag can easily be changed online.</description>
+    </item>
+    
+    <item>
+      <title>Rasberry PI NES Case</title>
+      <link>https://3dquu.com/en/rasberry-pi-case/</link>
+      <pubDate>Sun, 14 May 2017 14:37:59 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/en/rasberry-pi-case/</guid>
+      <description>A Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans.
+ Is visually as close as possible to a real NES. It is printed in biodegradable PLA plastic. Has room for a mini fan 30x30x7mm. Provides simple access to all ports. Buy it for 45USD (Mastercard, VISA, Amex),  Buying through 3DQuu won&amp;rsquo;t mess with your zenitude. We&amp;rsquo;re handling security just like you would when it comes to protecting your most precious assets with the help of Snipcart.</description>
+    </item>
+    
+    <item>
+      <title>Rasberry PI NES Case</title>
+      <link>https://3dquu.com/en/rasberry-pi-nes-case/</link>
+      <pubDate>Sun, 14 May 2017 14:37:59 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/en/rasberry-pi-nes-case/</guid>
+      <description>A Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans.
+ Is visually as close as possible to a real NES. It is printed in biodegradable PLA plastic. Has room for a mini fan 30x30x7mm. Provides simple access to all ports. Buy it for 45USD (Mastercard, VISA, Amex),  Buying through 3DQuu won&amp;rsquo;t mess with your zenitude. We&amp;rsquo;re handling security just like you would when it comes to protecting your most precious assets with the help of Snipcart.</description>
+    </item>
+    
+    <item>
+      <title>Rasberry PI NES Case</title>
+      <link>https://3dquu.com/rasberry-pi-nes-case/</link>
+      <pubDate>Sun, 14 May 2017 14:37:59 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/rasberry-pi-nes-case/</guid>
+      <description>A Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans.
+ Is visually as close as possible to a real NES. It is printed in biodegradable PLA plastic. Has room for a mini fan 30x30x7mm. Provides simple access to all ports. Buy it for 45USD (Mastercard, VISA, Amex),  Buying through 3DQuu won&amp;rsquo;t mess with your zenitude. We&amp;rsquo;re handling security just like you would when it comes to protecting your most precious assets with the help of Snipcart.</description>
+    </item>
     
     <item>
       <title>Köp</title>
@@ -18,42 +82,27 @@
       <pubDate>Sat, 13 May 2017 19:18:19 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/sv/kop/</guid>
-      <description>&lt;p&gt;&lt;button class=&#34;btn btn-success btn-lg snipcart-add-item&#34; data-item-id=&#34;3DQuu-Rasperry-Pi3-AIK-NES-Case&#34; data-item-name=&#34;3DQuu-Rasperry-Pi3-AIK-NES-Case&#34; data-item-price=&#34;45&#34; data-item-weight=&#34;66&#34; data-item-url=&#34;/&#34; data-item-stackable=&#34;false&#34;data-item-description=&#34;3DQuu 3D printed Rasperry Pi 3 AIK NES Case&#34;&gt;
-KÖP NU!
-&lt;/button&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589182/sjl0b6k9qftogxgp09td&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589721/yzwfur3iawfqpzypo8b3&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>KÖP NU!</description>
     </item>
     
     <item>
-      <title>Buy</title>
+      <title></title>
       <link>https://3dquu.com/buy/</link>
       <pubDate>Sat, 25 Mar 2017 14:34:59 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/buy/</guid>
-      <description>&lt;p&gt;A Raspberry Pi 3 NES case in black and yellow perfect for AIK soccer fans.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Is visually as close as possible to a real NES.&lt;/li&gt;
-&lt;li&gt;It is printed in biodegradable PLA plastic.&lt;/li&gt;
-&lt;li&gt;Has room for a mini fan 30x30x7mm.&lt;/li&gt;
-&lt;li&gt;Provides simple access to all ports.&lt;/li&gt;
-&lt;li&gt;Buy it for 45USD (Mastercard, VISA, Amex),&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Buying through 3DQuu won&amp;rsquo;t mess with your zenitude. We&amp;rsquo;re handling security just like you would when it comes to protecting your most precious assets with the help of &lt;a href=&#34;https://snipcart.com/security&#34;&gt;Snipcart&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;button class=&#34;btn btn-success btn-lg snipcart-add-item&#34; data-item-id=&#34;3DQuu-Rasperry-Pi3-AIK-NES-Case&#34; data-item-name=&#34;3DQuu-Rasperry-Pi3-AIK-NES-Case&#34; data-item-price=&#34;45&#34; data-item-weight=&#34;66&#34; data-item-url=&#34;/&#34; data-item-stackable=&#34;false&#34;data-item-description=&#34;3DQuu 3D printed Rasperry Pi 3 AIK NES Case&#34;&gt;
-Buy NOW!
-&lt;/button&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589182/sjl0b6k9qftogxgp09td&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dtnahfj7l/v1494589721/yzwfur3iawfqpzypo8b3&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <description> Buy online NFC custom business card Rasberry Pi NES case 3D Printed mug </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://3dquu.com/invest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ulf.e.sv@gmail.com (Ulfsv)</author>
+      <guid>https://3dquu.com/invest/</guid>
+      <description>Invest in 3DQuu iPrognos service
+ Buy it for 2150 USD (20000 SEK) (Mastercard, VISA, Amex, PayPal),  Buying through 3DQuu won&amp;rsquo;t mess with your zenitude. We&amp;rsquo;re handling security just like you would when it comes to protecting your most precious assets with the help of Snipcart.
+2150 USD</description>
     </item>
     
   </channel>
