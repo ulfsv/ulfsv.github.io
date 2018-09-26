@@ -48,7 +48,15 @@
   </url>
   
   <url>
+    <loc>https://3dquu.com/en/portfolio/</loc>
+  </url>
+  
+  <url>
     <loc>https://3dquu.com/invest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/portfolio/portfolio/</loc>
   </url>
   
   <url>
@@ -132,6 +140,11 @@
   <url>
     <loc>https://3dquu.com/tags/portfolio/</loc>
     <lastmod>2017-03-25T14:34:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3dquu.com/portfolio/</loc>
     <priority>0</priority>
   </url>
   
