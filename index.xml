@@ -100,8 +100,7 @@ The link on the NFC tag can easily be changed online.</description>
       <pubDate>Sat, 25 Mar 2017 14:34:59 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/portfolio/</guid>
-      <description> Headline Text
-&amp;lt;script&amp;gt;&amp;quot;use strict&amp;quot;; window.addEventListener(&amp;quot;load&amp;quot;, function () { var script = document.createElement(&#39;script&#39;); script.src = &#39;https://app.activechat.ai/script/4394d2d5-d486-4d98-b689-061f4396cc93&#39;; script.id = &#39;ACCW_EMBED&#39;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(script); }, false);&amp;lt;/script&amp;gt;  </description>
+      <description>Headline Text</description>
     </item>
     
     <item>
@@ -110,8 +109,7 @@ The link on the NFC tag can easily be changed online.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/en/portfolio/</guid>
-      <description> Headline Text
-&amp;lt;iframe allow=&amp;quot;microphone;&amp;quot; width=&amp;quot;350&amp;quot; height=&amp;quot;430&amp;quot; src=&amp;quot;https://console.dialogflow.com/api-client/demo/embedded/193a986a-6d9f-4755-a5f0-5996e0d5da6e&amp;quot;&amp;gt;   </description>
+      <description>Headline Text</description>
     </item>
     
     <item>
