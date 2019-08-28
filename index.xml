@@ -100,7 +100,8 @@ The link on the NFC tag can easily be changed online.</description>
       <pubDate>Sat, 25 Mar 2017 14:34:59 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/portfolio/</guid>
-      <description>Headline Text</description>
+      <description>Headline Text
+{{ &amp;lsquo;&amp;laquo;use strict&amp;raquo;; window.addEventListener(&amp;laquo;load&amp;raquo;, function () { var script = document.createElement(&amp;lsquo;script&amp;rsquo;); script.src = &amp;lsquo;https://app.activechat.ai/script/4394d2d5-d486-4d98-b689-061f4396cc93&#39;; script.id = &amp;lsquo;ACCW_EMBED&amp;rsquo;; document.getElementsByTagName(&amp;lsquo;head&amp;rsquo;)[0].appendChild(script); }, false); &amp;lsquo; | safeJS }}</description>
     </item>
     
     <item>
