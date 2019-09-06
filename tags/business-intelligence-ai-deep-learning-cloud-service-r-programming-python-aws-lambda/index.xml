@@ -20,8 +20,7 @@
       <pubDate>Sat, 25 Mar 2017 14:34:59 +0000</pubDate>
       <author>ulf.e.sv@gmail.com (Ulfsv)</author>
       <guid>https://3dquu.com/portfolio/</guid>
-      <description> Headline Text2
-(function () { var script = document.createElement(&#39;script&#39;); script.src = &#39;https://app.activechat.ai/script/4394d2d5-d486-4d98-b689-061f4396cc93&#39;; script.id = &#39;ACCW_EMBED&#39;; document.getElementsByTagName(&#39;head&#39;)[0].appendChild(script); })(); </description>
+      <description> Headline1 </description>
     </item>
     
   </channel>
